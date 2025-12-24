@@ -1,0 +1,140 @@
+City: Islamabad
+Weather: Clouds
+Weather Description: overcast clouds
+Temperature: 28°C
+Pressure: 996
+Date and Time: 2024-07-12 18:58:30
+
+City: Larkana
+Weather: Clouds
+Weather Description: overcast clouds
+Temperature: 44°C
+Pressure: 987
+Date and Time: 2024-07-12 18:58:37
+
+City: Quetta
+Weather: Clear
+Weather Description: clear sky
+Temperature: 33°C
+Pressure: 995
+Date and Time: 2024-07-12 18:58:50
+
+City: Assam
+Weather: Clouds
+Weather Description: overcast clouds
+Temperature: 25°C
+Pressure: 1000
+Date and Time: 2024-07-12 18:59:03
+
+City: Beijing
+Weather: Rain
+Weather Description: light rain
+Temperature: 21°C
+Pressure: 1000
+Date and Time: 2024-07-12 18:59:15
+
+City: Delhi
+Weather: Haze
+Weather Description: haze
+Temperature: 32°C
+Pressure: 994
+Date and Time: 2024-07-12 18:59:23
+
+City: Karachi
+Weather: Smoke
+Weather Description: smoke
+Temperature: 31°C
+Pressure: 996
+Date and Time: 2024-07-12 18:59:38
+
+City: Balochistan
+Weather: Clouds
+Weather Description: overcast clouds
+Temperature: 29°C
+Pressure: 999
+Date and Time: 2024-07-28 20:31:30
+
+City: Hyderabad
+Weather: Drizzle
+Weather Description: light intensity drizzle
+Temperature: 25°C
+Pressure: 1002
+Date and Time: 2024-07-28 20:32:08
+
+City: Assam
+Weather: Clouds
+Weather Description: broken clouds
+Temperature: 28°C
+Pressure: 998
+Date and Time: 2024-07-28 20:32:30
+
+City: Islamabad
+Weather: Clear
+Weather Description: clear sky
+Temperature: 31°C
+Pressure: 1007
+Date and Time: 2024-10-02 10:38:39
+
+City: karachi
+Weather: Clear
+Weather Description: clear sky
+Temperature: 31°C
+Pressure: 1009
+Date and Time: 2024-10-02 10:38:51
+
+City: Islamabad
+Weather: Clear
+Weather Description: clear sky
+Temperature: 29°C
+Pressure: 1004
+Date and Time: 2024-10-02 18:14:45
+
+City: Karachi
+Weather: Haze
+Weather Description: haze
+Temperature: 27°C
+Pressure: 1015
+Date and Time: 2024-10-24 09:15:06
+
+City: Islamabad
+Weather: Clear
+Weather Description: clear sky
+Temperature: 14°C
+Pressure: 1016
+Date and Time: 2024-11-16 23:33:57
+
+City: Karachi
+Weather: Haze
+Weather Description: haze
+Temperature: 29°C
+Pressure: 1014
+Date and Time: 2024-11-23 12:23:29
+
+City: assam
+Weather: Clear
+Weather Description: clear sky
+Temperature: 24°C
+Pressure: 1013
+Date and Time: 2024-11-23 12:24:34
+
+City: Peshawar
+Weather: Haze
+Weather Description: haze
+Temperature: 21°C
+Pressure: 1016
+Date and Time: 2024-11-27 11:36:53
+
+City: Multan
+Weather: Haze
+Weather Description: haze
+Temperature: 25°C
+Pressure: 1012
+Date and Time: 2024-11-27 14:36:18
+
+City: Hyderabad
+Weather: Haze
+Weather Description: haze
+Temperature: 20°C
+Pressure: 1015
+Date and Time: 2025-12-14 18:51:42
+
